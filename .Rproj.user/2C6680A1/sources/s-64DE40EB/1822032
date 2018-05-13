@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526252203622.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1822032",
+    "lastKnownWriteTime" : 1526252794,
+    "last_content_update" : 1526252794300,
+    "path" : "C:/MyRWorkSpace/ProbablityGraphWithR/ProbablityGraphicInference.R",
+    "project_path" : "ProbablityGraphicInference.R",
+    "properties" : {
+        "cursorPosition" : "15,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
